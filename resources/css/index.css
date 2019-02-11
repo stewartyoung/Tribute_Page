@@ -1,0 +1,69 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+ body {
+    background : #f8f8ff;
+    font-family: 'Ek Mukta', sans-serif;
+    height     : 100%;
+  }
+  
+  #main {
+    margin    : auto;
+    text-align: center;
+  }
+  
+  #title {
+    font-size     : 7em;
+    margin        : 0;
+    padding-bottom: 30px;
+  
+  }
+  
+  #img-div {
+    padding-top: 30px;
+  }
+  
+  #img-caption {
+    font-size: 2.5em;
+  }
+  
+  #image {
+  width       : 100%;
+  height      : auto;
+  max-width   : 625px;
+  margin-left : auto;
+  margin-right: auto;
+  display     : block;
+  }
+  .ul {
+    text-align: center;
+  } 
+  
+  .li {
+    display: inline-block;
+  }
+  
+  #footer {
+    background: #585858;
+  }
+  
+  #tribute-link {
+    font-size: 1.25em;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  a:hover {
+    color: hotpink;
+  }
+  
+  #tribute-info {
+    max-width : 768px;
+    margin    : 0 auto;
+    text-align: left;
+    font-size : 1.5em;
+  }
