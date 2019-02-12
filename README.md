@@ -1,6 +1,8 @@
 # Tribute_Page
 A Tribute Page based on the corresponding Free Code Camps responsive web project.
 
+https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+
 Below are the user stories:
 
 1. My tribute page should have an element with a corresponding id="main", which contains all other elements.
