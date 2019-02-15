@@ -1,5 +1,5 @@
 # Tribute_Page
-A Tribute Page based on the corresponding Free Code Camps responsive web project.
+A Tribute Page based on the corresponding Free Code Camp responsive web project.
 
 https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
